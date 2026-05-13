@@ -1,0 +1,50 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+header {
+    background-color: #BEFF01;
+}
+
+.hero-section {
+    min-height: 100vh;
+    text-align: center;
+    padding-top: 120px;
+}
+
+.photo {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.skills-img {
+    width: 80px;
+    height: 80px;
+}
+
+.skills-info,
+.edu-div,
+.card {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.underline {
+    width: 80px;
+    height: 3px;
+    background-color: #BEFF01;
+    border: none;
+    margin-top: 10px;
+}
+
+footer a:hover {
+    color: #BEFF01 !important;
+}
+
+.btn {
+    border-radius: 30px;
+}
