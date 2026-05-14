@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", () => {
             { name: "React Routing", img: "Routing.png", demo: "https://routing-project-tau.vercel.app/", code: "https://github.com/patil-prajakta-14/Routing-project" },
             { name: "Dashboard", img: "Dashboard.png", demo: "https://dashboard-seven-amber-25.vercel.app/", code: "https://github.com/patil-prajakta-14/Dashboard" },
             { name: "Redux Project", img: "Redux-project.png", demo: "https://redux-project-fawn-theta.vercel.app/", code: "https://github.com/patil-prajakta-14/Redux-Project" },
-            { name: "To do App (Redux)", img: "To-do.png", demo: "", code: "https://github.com/patil-prajakta-14/To-do-list-Redux" },
+            { name: "To do App (Redux)", img: "To-do.png", demo: "https://cw-day-3.vercel.app/", code: "https://github.com/patil-prajakta-14/cw-day-3" },
 
 
         ].map(proj => `
